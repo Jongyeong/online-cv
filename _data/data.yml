@@ -95,11 +95,11 @@ publications:
     intro: |
     
     papers:
-      - title: [On Symmetric Losses for Learning from Corrupted Labels](http://proceedings.mlr.press/v97/charoenphakdee19a.html)
-        authors: [Charoenphakdee, N.](https://nolfwin.github.io), Lee, J., and [Sugiyama, M.](http://www.ms.k.u-tokyo.ac.jp/sugi/)
+      - title: O[n Symmetric Losses for Learning from Corrupted Labels](http://proceedings.mlr.press/v97/charoenphakdee19a.html)
+        authors: C[haroenphakdee, N.](https://nolfwin.github.io), Lee, J., and [Sugiyama, M.](http://www.ms.k.u-tokyo.ac.jp/sugi/)
         conference: In Proceedings of 36th International Conference on Machine Learning (ICML2019)
 
-      - title: [Domain Discrepancy Measure for Complex Models in Unsupervised Domain Adaptation](https://arxiv.org/abs/1901.10654)
+      - title: D[omain Discrepancy Measure for Complex Models in Unsupervised Domain Adaptation](https://arxiv.org/abs/1901.10654)
         authors: Lee, J., [Charoenphakdee, N.](https://nolfwin.github.io), Kuroki, S., and [Sugiyama, M.](http://www.ms.k.u-tokyo.ac.jp/sugi/)
         conference: Preprint in arXiv.
 
