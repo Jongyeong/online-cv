@@ -74,19 +74,6 @@ experiences:
           - Research and development of machine learning theories and algorithms.
           - Belong to Imperfect Information Learning Team.
 
-publications:
-    title: Publications
-    intro: |
-    
-    papers:
-      - title: [On Symmetric Losses for Learning from Corrupted Labels](http://proceedings.mlr.press/v97/charoenphakdee19a.html)
-        authors: [Charoenphakdee, N.](https://nolfwin.github.io), Lee, J., and [Sugiyama, M.](http://www.ms.k.u-tokyo.ac.jp/sugi/)
-        conference: In Proceedings of 36th International Conference on Machine Learning (ICML2019)
-
-      - title: [Domain Discrepancy Measure for Complex Models in Unsupervised Domain Adaptation](https://arxiv.org/abs/1901.10654)
-        authors: Lee, J., [Charoenphakdee, N.](https://nolfwin.github.io), Kuroki, S., and [Sugiyama, M.](http://www.ms.k.u-tokyo.ac.jp/sugi/)
-        conference: Preprint in arXiv.
-
 
 projects:
     title: Projects
@@ -101,6 +88,20 @@ projects:
       - title: Machine Learning in Planetary science.
         link: "#"
         tagline: "On going."
+
+
+publications:
+    title: Publications
+    intro: |
+    
+    papers:
+      - title: [On Symmetric Losses for Learning from Corrupted Labels](http://proceedings.mlr.press/v97/charoenphakdee19a.html)
+        authors: [Charoenphakdee, N.](https://nolfwin.github.io), Lee, J., and [Sugiyama, M.](http://www.ms.k.u-tokyo.ac.jp/sugi/)
+        conference: In Proceedings of 36th International Conference on Machine Learning (ICML2019)
+
+      - title: [Domain Discrepancy Measure for Complex Models in Unsupervised Domain Adaptation](https://arxiv.org/abs/1901.10654)
+        authors: Lee, J., [Charoenphakdee, N.](https://nolfwin.github.io), Kuroki, S., and [Sugiyama, M.](http://www.ms.k.u-tokyo.ac.jp/sugi/)
+        conference: Preprint in arXiv.
 
 
 skills:
