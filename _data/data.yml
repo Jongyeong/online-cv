@@ -76,7 +76,8 @@ experiences:
 
 publications:
     title: Publications
-
+    intro: |
+    
     papers:
       - title: [On Symmetric Losses for Learning from Corrupted Labels](http://proceedings.mlr.press/v97/charoenphakdee19a.html)
         authors: [Charoenphakdee, N.](https://nolfwin.github.io), Lee, J., and [Sugiyama, M.](http://www.ms.k.u-tokyo.ac.jp/sugi/)
