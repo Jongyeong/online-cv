@@ -75,6 +75,20 @@ experiences:
           - Belong to Imperfect Information Learning Team.
 
 
+publications:
+    title: Publications
+    intro: >
+    
+    papers: 
+      - title: On Symmetric Losses for Learning from Corrupted Labels
+        authors: Charoenphakdee, N., Lee, J., and Sugiyama, M.
+        conference: In Proceedings of 36th International Conference on Machine Learning (ICML2019)
+
+      - title: Domain Discrepancy Measure for Complex Models in Unsupervised Domain Adaptation
+        authors: Lee, J., Charoenphakdee, N., Kuroki, S., and Sugiyama, M.
+        conference: Preprint in arXiv.
+
+
 projects:
     title: Projects
     intro: >
@@ -88,20 +102,6 @@ projects:
       - title: Machine Learning in Planetary science.
         link: "#"
         tagline: "On going."
-
-
-publications:
-    title: Publications
-    intro: >
-    
-    papers: 
-      - title: On Symmetric Losses for Learning from Corrupted Labels
-        authors: Charoenphakdee, N., Lee, J., and Sugiyama, M.
-        conference: In Proceedings of 36th International Conference on Machine Learning (ICML2019)
-
-      - title: Domain Discrepancy Measure for Complex Models in Unsupervised Domain Adaptation
-        authors: Lee, J., Charoenphakdee, N., Kuroki, S., and Sugiyama, M.
-        conference: Preprint in arXiv.
 
 
 skills:
