@@ -82,12 +82,12 @@ projects:
     assignments:
       - title: Fashion and A.I. Projects with Emarie @ RIKEN AIP.
         url: "https://www.youtube.com/watch?v=QPpTlV_Lm6c"
-        details: "Collaboration of machine learning method (especially deep learning) with professional fashion designer [EMarie](https://www.youtube.com/watch?v=QPpTlV_Lm6c).
+        tagline: "Collaboration of machine learning method (especially deep learning) with professional fashion designer EMarie.
         The fashion show was held during Amazon fashion week spring season in Tokyo."
 
       - title: Machine Learning in Planetary science.
         link: "#"
-        details: "On going."
+        tagline: "On going."
 
 
 publications:
