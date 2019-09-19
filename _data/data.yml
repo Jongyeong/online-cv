@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: lee@ms.k.u-tokyo.ac.jp
     phone: 
-    website: jongyeong.github.io #do not add http://
+    website: jongyeong.netlify.com #do not add http://
     linkedin: 
     github: jongyeong
     gitlab:
@@ -29,11 +29,11 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: IELTS academic 7.5
 
       - idiom: Japanese
-        level: Professional
-
+        level: N1 177/180
+        
     interests:
       - item: Games
         link:
@@ -49,7 +49,7 @@ career-profile:
     summary: |
       I am interested in machine learning, especially the situation where the information is
       imperfect which often occurs in the real world. Until now, I have researched on Domain Adaptation,
-      Crowdsourcing and corrupted labels. Recently, I also feel interested in decision making including
+      Crowdsourcing and corrupted labels. Recently, I also feel interested in decision making and
       Reinforcement learning.
 
 education:
@@ -80,9 +80,13 @@ publications:
     intro: >
     
     papers: 
+      - title: Learning Only from Relevant Keywords and Unlabeled Documents
+        authors: Charoenphakdee, N., Lee, J., and Sugiyama, M.
+        conference: EMNLP 2019
+
       - title: On Symmetric Losses for Learning from Corrupted Labels
         authors: Charoenphakdee, N., Lee, J., and Sugiyama, M.
-        conference: In Proceedings of 36th International Conference on Machine Learning (ICML2019)
+        conference: ICML 2019
 
       - title: Domain Discrepancy Measure for Complex Models in Unsupervised Domain Adaptation
         authors: Lee, J., Charoenphakdee, N., Kuroki, S., and Sugiyama, M.
