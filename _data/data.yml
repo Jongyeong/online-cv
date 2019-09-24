@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jongyeong Lee
-    tagline: Master Students
+    tagline: Master Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -35,10 +35,10 @@ sidebar:
         level: N1 177/180
         
     interests:
-      - item: Games
+      - item: Playing games
         link:
 
-      - item: Travel
+      - item: Traveling
         link:
 
       - item: Cooking
@@ -49,7 +49,7 @@ career-profile:
     summary: |
       I am interested in machine learning, especially the situation where the information is
       imperfect which often occurs in the real world. Until now, I have researched on Domain Adaptation,
-      Crowdsourcing and corrupted labels. Recently, I also feel interested in decision making and
+      Crowdsourcing and corrupted labels. I am also interested in decision making and
       Reinforcement learning.
 
 education:
