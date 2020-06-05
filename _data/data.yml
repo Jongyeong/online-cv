@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Jongyeong Lee
-    tagline: Master Student
+    tagline: Ph.D. Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: lee@ms.k.u-tokyo.ac.jp
     phone: 
-    website: jongyeong.netlify.com #do not add http://
+    website: jongyeong.github.io #do not add http://
     linkedin: 
     github: jongyeong
     gitlab:
@@ -53,9 +53,15 @@ career-profile:
       Reinforcement learning.
 
 education:
+    - degree: Ph.D. in Computer Science
+      university: The University of Tokyo
+      time: 2020 - Present
+      details: |
+        Under the supervision of Prof.Masashi Sugiyama in Sugiyama-Sato-Honda laboratory.
+
     - degree: MSc in Computer Science
       university: The University of Tokyo
-      time: 2018 - present
+      time: 2018 - 2020
       details: |
         Under the supervision of Prof.Masashi Sugiyama in Sugiyama-Sato-Honda laboratory.
 
